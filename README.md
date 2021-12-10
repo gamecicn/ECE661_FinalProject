@@ -21,7 +21,7 @@ At last, we let models learn from themselves (**Self KD**).
 
 
 
-![Structure](.\image\three_model.png)
+![Structure](./image/three_model.png)
 
 
 
