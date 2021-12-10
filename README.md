@@ -58,7 +58,7 @@ The question 2 was answered in section **Noraml KD** .  Please make sure run the
 #### Question 3 
 *Try different temperature T in equation (1) in [1] and analyze the influence of this parameter on distillation.*
 
-**Notebook:**  
+**Notebook:**  question_3_diff_temperatures.ipynb
 
 The question 3 was answered in section **Noraml KD** .  Please make sure run the following sections at first.
 
@@ -101,7 +101,7 @@ The question 5 was answered in section **Reverse KD** .  Please make sure run th
 
 **Notebook:**  question_5_6_reverse_and_self_KD.ipynb
 
-The question 6 was answered in section **Self KD ** .  Please make sure run the following sections at first.
+The question 6 was answered in section **Self KD** .  Please make sure run the following sections at first.
 
 - Import necessary dependencies
 - Download Data - CIFAR10
